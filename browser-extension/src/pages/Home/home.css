@@ -1,0 +1,29 @@
+
+.home-container{
+    color: var(--text-color-primary);
+    padding-top: 4rem;
+}
+
+
+.main-heading {
+    font-size: 3.5rem;
+    line-height: 4rem;
+  }
+
+.gap-lg{
+    gap: 9rem;
+}
+
+.input{
+    background-color: transparent;
+    width: 40vw;
+    border: none;
+    border-bottom: 3px solid var(--text-color-primary);
+    font-size: 2rem;
+    color: var(--text-color-primary);
+    text-align: center;
+}
+
+.input:focus{
+    outline: none;
+}
